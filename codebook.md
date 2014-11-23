@@ -11,4 +11,4 @@ _activity_ : The activity during the observation. This can include :
 	- WALKING_DOWNSTAIRS
 	- WALKING_UPSTAIRS
 
-The description for the remaining fields can be found under [https://github.com/mjouni/week3-project/tree/master/UCI%20HAR%20Dataset]
+The description for the remaining fields can be found under [https://github.com/mjouni/week3-project/blob/master/UCI%20HAR%20Dataset/features_info.txt]
